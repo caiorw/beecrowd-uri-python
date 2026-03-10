@@ -1,5 +1,5 @@
 <h1>Disclaimer</h1>
-<p>A maior parte desse código foi escrita durante a familiarização com Python meu primeiro semestre de faculdade na matéria de programação orientada à objetos, com limitações impostas pela professora da disciplina. Com isso, não recomendo que nenhum destes seja usado como exemplo de boas práticas.</p>
+<p>A maior parte desse código foi escrita enquanto eu aprendia Python durante meu primeiro semestre de faculdade, na matéria de programação orientada à objetos, com limitações impostas pela professora da disciplina. Com isso, não recomendo que nenhum destes seja usado como exemplo de boas práticas.</p>
 <p>Use esse repositório com consciência e entenda que ao copiar código da internet, principalmente para fins educativos, você está enganando apenas a sí próprio.</p>
 <p>Ao longo do tempo, fortaleci minhas habilidades de lógica, eficiência/otimização e boas práticas. Por isso, gostaria de esclarecer que o código aqui presente não representa minha capacidade atual de escrita e resolução de problemas.</p>
 <p><a href="https://judge.beecrowd.com/pt/profile/1169757" target="_blank">Meu perfil no Beecrowd. 🐝</a></p>

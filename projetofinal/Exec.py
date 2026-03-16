@@ -1,4 +1,3 @@
-#Caio Reibnitz Willemann     25200394
 #Projeto final - Sistema de venda de passagens de ônibus
 from Modelagem import Onibus,Usuario,Passageiro
 import random

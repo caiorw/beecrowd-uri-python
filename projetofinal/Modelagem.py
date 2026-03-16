@@ -1,4 +1,3 @@
-#Caio Reibnitz Willemann     25200394
 #Projeto final - Sistema de venda de passagens de ônibus
 
 class Onibus():
